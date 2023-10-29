@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: rgb(234, 234, 248);
+
+}
+
+body{
+    background-image: url('img/piramide.jpg');
+}
+
+fieldset{
+    color: rgb(250, 249, 249);
+    text-align: center;
+  
+}
+ 
+button{
+    color: rgb(250, 250, 255);
+    background-color: rgb(6, 6, 7);
+}
+
+/**/
